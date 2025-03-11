@@ -1,1 +1,1 @@
-# php-lms
+# LMSPHP
